@@ -1,0 +1,5 @@
+aiohttp
+requests
+pandas
+beautifulsoup4
+pytest
