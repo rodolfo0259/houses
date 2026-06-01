@@ -17,8 +17,6 @@ photos_link (future TODO)
 Load this all of this into a csv file
 """
 
-from etl import TOTAL_PAGES
-from typing import Callable
 from urllib.parse import urljoin, urlparse
 
 import requests
